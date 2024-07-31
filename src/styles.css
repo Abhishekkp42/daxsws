@@ -5,7 +5,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  /* margin: 0; */
 }
 
 .login-container,
@@ -25,7 +24,6 @@ body {
 }
 
 h2 {
-  margin-bottom: 10px;
   color: white;
 }
 
